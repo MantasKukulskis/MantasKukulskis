@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Mantas!
 
-<!--
-**MantasKukulskis/MantasKukulskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying at **BIT (Baltic Institute of Technology)**, on my path to becoming a **Full-Stack Junior Developer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Learning: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`
+- 🧠 Always eager to learn something new and improve my coding skills
+- 🛠️ Passionate about building clean, responsive, and user-friendly web apps
+- 🤝 Looking forward to collaborating on meaningful projects
+
+---
+
+## 📫 Contact Me
+
+- Email: mantas@example.com  
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/mantas-kukulskis-0923b92ba/)
+
+---
+
+## 📊 GitHub Stats
+
+![Mantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MantasKukulskis&show_icons=true&theme=radical)
+
+---
