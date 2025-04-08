@@ -15,7 +15,7 @@
 
 ## 📫 Contact Me
 
-- Email: mantas@example.com  
+- Email: 8mantas8@gmail.com  
 - LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/mantas-kukulskis-0923b92ba/)
 
 ---
