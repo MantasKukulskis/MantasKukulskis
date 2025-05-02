@@ -23,5 +23,7 @@
 ## 📊 GitHub Stats
 
 ![Mantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MantasKukulskis&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MantasKukulskis&layout=compact&theme=radical)](https://github.com/MantasKukulskis)
+
 
 ---
